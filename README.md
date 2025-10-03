@@ -46,3 +46,10 @@ jupyter notebook Tracking_Unique_Insect_Species_in_City_of_Melbourne.ipynb
 Explore the interactive maps:
 unique_species_map.html → Species distribution map
 cluster_map.html → High-density insect clusters
+
+---
+
+## Future Work
+- Automate data fetching from APIs for real-time dashboards.  
+- Add predictive models to forecast biodiversity shifts under climate change.  
+- Extend analysis to birds, mammals, or plants for broader ecosystem insights.  
