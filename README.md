@@ -17,7 +17,9 @@ This project analyzes open biodiversity datasets to track insect species sightin
 - **Royal Park, Carlton Gardens, and Flagstaff Gardens** showed the highest biodiversity in Melbourne.  
 - **Seasonal peaks** in Autumn and Spring, matching known insect activity cycles.  
 - **Hymenoptera (bees, ants)** emerged as the most diverse order.  
-- DBSCAN clustering revealed **dense insect activity zones** in both urban and rural areas.  
+- DBSCAN clustering revealed **dense insect activity zones** in both urban and rural areas.
+- This project taught me how data + environment + conservation come together to tell stories about our ecosystems.
+-   
 
 ---
 
