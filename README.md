@@ -46,8 +46,8 @@ jupyter notebook Tracking_Unique_Insect_Species_in_City_of_Melbourne.ipynb
 
 
 Explore the interactive maps:
-unique_species_map.html → Species distribution map
-cluster_map.html → High-density insect clusters
+unique_species_map → Species distribution map
+cluster_map → High-density insect clusters
 ### 🌍 Interactive Maps
 
 - [Species Distribution Map](https://rohang-7.github.io/Tracking-unique-insect-species/unique_species_map.html)  
